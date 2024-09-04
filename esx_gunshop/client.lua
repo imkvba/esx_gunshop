@@ -1,7 +1,5 @@
 ESX = nil
 
-TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
-
 -- a tu se z edytuj to gdzie chcesz zeby blip ci sie pokazwyał
 local gunShopCoords = vector3(362.55, -2466.25, 6.40)
 
